@@ -10,6 +10,9 @@
     "type": "git",
     "url": "git+https://github.com/yjz20041/regular-views.git"
   },
+  "peerDependencies": {
+    "regular-transmit": "latest"
+  },
   "author": "hzyangjiezheng",
   "license": "MIT",
   "bugs": {
